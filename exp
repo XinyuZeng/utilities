@@ -1,0 +1,1 @@
+./hs1_pos.sh ; ./hs1_top.sh ; ./hs2_fix.sh ; ./ycsb_f11.sh ; ./ycsb_f12.sh ; ./ycsb_f13.sh ; ./tpcc_test.sh
